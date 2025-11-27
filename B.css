@@ -1,0 +1,54 @@
+form {
+    margin-top: 10%;
+    text-decoration: none;
+    font-size: x-large;
+}
+form {
+    width: 267px;
+    border: 6px solid black;
+    margin: 0 auto;
+    max-width: 600px;
+    padding: 2rem;
+    border-radius: 0px;
+}
+form {
+    margin-top: 10%;
+    text-decoration: none;
+    font-size: x-large;
+    background-color: beige;
+}
+form {
+    width: 267px;
+    border: 6px solid #432385;
+    margin: 0 auto;
+    max-width: 600px;
+    padding: 6rem;
+    border-radius: 73px;
+}
+
+button:hover {
+    background-color: navajowhite;
+    color: black;
+}
+button {
+    padding: 1rem;
+    background-color: coral;
+    border-radius: 14px;
+    color: teal;
+}
+.formgroup {
+    padding: 6% 3%;
+}
+.weSeeBox{
+    width: 400px;
+    border: 5px solid blue;
+    height: 500px;
+    border-radius: 50px;
+    background-color: aquamarine;
+    padding: 10rem;
+    margin: 0 auto;
+}
+.weSeeBox:hover {
+    background-color: beige;
+    color: chocolate;
+}
